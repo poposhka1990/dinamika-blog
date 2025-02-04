@@ -19,11 +19,11 @@ export function PaceCalculator() {
     const pacePerMeter = totalSeconds / 1000;
     
     setSplits({
-      '100m': formatTime(pacePerMeter * 100),
-      '200m': formatTime(pacePerMeter * 200),
-      '400m': formatTime(pacePerMeter * 400),
-      '800m': formatTime(pacePerMeter * 800),
-      '1000m': formatTime(totalSeconds)
+      '100м': formatTime(pacePerMeter * 100),
+      '200м': formatTime(pacePerMeter * 200),
+      '400м': formatTime(pacePerMeter * 400),
+      '800м': formatTime(pacePerMeter * 800),
+      '1000м': formatTime(totalSeconds)
     });
   };
 
@@ -31,7 +31,7 @@ export function PaceCalculator() {
     <div className="p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg">
       <h3 className="text-xl font-bold mb-4">Счетчик темпа</h3>
       <p className="text-gray-600 dark:text-gray-300 mb-6">
-        Введи темп, с которым планируешь бежать для рассчёта
+        Введи темп бега на километр для рассчёта отрезков
       </p>
       <div className="flex flex-col sm:flex-row gap-4 mb-6">
         <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
