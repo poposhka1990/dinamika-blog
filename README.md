@@ -12,7 +12,7 @@
 
 ## Технологии
 
-[![My Skills](https://skillicons.dev/icons?i=react, typescript, tailwindcss, reactrouter, lucidereact)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,tailwindcss,reactrouter,lucidereact)](https://skillicons.dev)
 
 - React
 - TypeScript
