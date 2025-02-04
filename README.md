@@ -14,10 +14,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,tailwindcss,reactrouter,lucidereact)](https://skillicons.dev)
 
-- React
-- TypeScript
-- Tailwind CSS
-- React Router
+- React + TypeScript для кода
+- Tailwind CSS для стилей
+- React Router для навигации
 - Lucide React для иконок
 
 ## Особенности
